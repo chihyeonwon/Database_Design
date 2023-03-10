@@ -43,3 +43,13 @@
 수정할 필요가 없어 데이터 독립성을 유지할 수 있다.
 ```
 
+## SQL
+```
+데이터베이스 시스템에 사용하는 전용 언어로 데이터 정의어(DDL : Data Definition Language), 데이터 조작어(Data Manipulation language), 
+데이터 제어어(Data Control Language)로 구성된다.
+
+1. 데이터 정의어 : CREATE, ALTER, DROP 문과 같이 DBMS에 저장된 테이블의 구조를 정의한다.
+2. 데이터 조작어 : SELECT, INSERT, DELETE, UPDATE 문과 같이 데이터를 검색, 삽입, 삭제, 수정하는 데 사용한다.
+3. 데이터 제어어 : GRANT, REVOKE 문과 같이 데이터의 사용 권한을 관리한다.
+```
+
