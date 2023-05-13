@@ -112,5 +112,7 @@
 ```
 데이터 모델링 마당대학 데이터베이스 개념적 모델링 (ERD) ER-다이어그램입니다.
 ```
-
-
+![image](https://github.com/chihyeonWON/Database_Design/assets/58906858/325176da-fa96-4cb8-91b9-449814d6656f)
+```
+개념적 모델링 (ERD) ER-다이어그램을 참고한 논리적 모델링입니다.
+```
