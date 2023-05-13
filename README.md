@@ -108,5 +108,9 @@
 데이터 구조화 : 논리적 구조를 물리적 구조로 표현
 물리적 설계 / 저장 장치에서의 데이터 표현
 ```
+![image](https://github.com/chihyeonWON/Database_Design/assets/58906858/b9cb0440-0d7d-49c2-9e39-ebd0c01953a6)
+```
+데이터 모델링 마당대학 데이터베이스 개념적 모델링 (ERD) ER-다이어그램입니다.
+```
 
 
