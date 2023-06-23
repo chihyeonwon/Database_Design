@@ -1,13 +1,17 @@
 # Database_Design
 컴퓨터공학과 데이터베이스설계 정리입니다. 
 
-2022-03-02
+2023-03-02
 ![image](https://user-images.githubusercontent.com/58906858/222395361-293a98dd-31d7-42a0-a78b-9eff5a937ac2.png)      
 ![image](https://user-images.githubusercontent.com/58906858/222395653-839f49ac-ef08-478a-857c-ea48680ed09b.png)      
 ![image](https://user-images.githubusercontent.com/58906858/222396023-8f125511-29c6-4999-86f6-3d944e34b8e4.png)      
 ![image](https://user-images.githubusercontent.com/58906858/222396175-5d94319f-8f45-47f8-9c2a-81637d61118e.png)
 
-
+2023-06 데이터베이스 종강
+![image](https://github.com/chihyeonWON/Database_Design/assets/58906858/9f447902-b7b1-4611-b446-141fa2a71b58)
+```
+데이터의 의미, 관계대수, 관계해석, sql 등 데이터베이스 기초 지식을 쌓을 수 있었던 과목
+```
 ## 데이터베이스
 ```
 조직에 필요한 정보를 얻기 위해 논리적으로 연관된 데이터를 모아 구조적으로 통합해 놓은 것이다.
